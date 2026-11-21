@@ -5,6 +5,7 @@ Computer Engineering student at Bogazici University, interested in systems progr
 ## Technologies
 
 **Languages:** C, C++, Java, Python, C#, TypeScript, x86-64 and RISC-V Assembly
+
 **Frameworks and tools:** Next.js, .NET / .NET MAUI, Qt, TensorFlow, Streamlit, Supabase, Docker, Git
 
 ## Selected Projects
